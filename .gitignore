@@ -1,3 +1,10 @@
 env/
 __pycache__/
 .vscode/
+/downloads/
+logs/
+*.log
+*.json
+*.csv
+*.xlsx
+packs/
