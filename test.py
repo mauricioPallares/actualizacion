@@ -35,3 +35,5 @@ for producto in productos:
 
     connHer.cursor.execute(sql, val)
     connHer.connection.commit()
+
+    #ejemplo git
